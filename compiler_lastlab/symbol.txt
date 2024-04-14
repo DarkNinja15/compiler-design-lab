@@ -1,0 +1,17 @@
+id           value          type 
+id1            a            Char
+id2            =            Assignment
+id3            b            Char
+id4            *            Arithmetic
+id5            c            Char
+id6            +            Arithmetic
+id7            d            Char
+id8            ;            Semicolon
+id9            w            Char
+id10            =            Assignment
+id11            x            Char
+id12            +            Arithmetic
+id13            y            Char
+id14            *            Arithmetic
+id15            z            Char
+id16            ;            Semicolon
