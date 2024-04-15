@@ -1,10 +1,4 @@
-/*  I am doing this code in c
- Adarsh Kumar 2101001CS
-Lab 01 Date -09-01-2024
-Write a C program to count number of characters, words, blank space, and lines in a text file. 
-Logic to count characters, words and lines in a file in C program.
- How to count total characters, words and lines in a text file in C programming.
-*/ 
+
 #include <stdio.h>
 
 int main() {

@@ -1,5 +1,4 @@
-/* Name: Satveer, Roll No. 2101094CS
-I'm writing this code in c++ because it's my preferred language  */
+
 #include <bits/stdc++.h>
 using namespace std;
 bool isValidForLoopSyntax(const string &code)

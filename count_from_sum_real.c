@@ -1,12 +1,4 @@
-/*  I am doing this code in c
- Adarsh Kumar 2101001CS
-Lab 02 Date : 16-01-2024
 
-*/ 
-/* This program adds two real numbers and demonstrates reading from a file,
- * counting variables, comments, and statements.
- The program count the numbers of variables , comments and statements 
- this will be done by reading the file  */
 
 #include <stdio.h>
 #include <ctype.h>

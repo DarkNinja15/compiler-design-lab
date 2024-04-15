@@ -1,10 +1,4 @@
-/*  I am doing this code in c
- Adarsh Kumar 2101001CS
-Lab 02 Date -16-01-2024
 
-*/ 
-/* This program adds two real numbers and demonstrates reading from a file,
- * counting variables, comments, and statements. */
 
 #include <stdio.h>
 
@@ -28,10 +22,3 @@ int main() {
 
     return 0;
 }
-
-/*Output
-Enter the first number: 25
-Enter the second number: 66
-
-The sum of 25 and 66 is " : 91
-*/
